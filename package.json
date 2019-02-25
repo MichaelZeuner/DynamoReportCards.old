@@ -1,9 +1,9 @@
 {
-    "name": "angular-7-role-based-authorization-example",
+    "name": "dynamo-report-card-system",
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/angular-7-role-based-authorization-example.git"
+        "url": "https://github.com/MichaelZeuner/DynamoReportCards.git"
     },
     "scripts": {
         "build": "webpack --mode production",
